@@ -19,7 +19,7 @@ function Index() {
       </Helmet>
       <h1>Gatsby + Node.js (TypeScript) API</h1>
       <h2>
-        Deployed with{' '}
+        Deployed with{' '}ooo
         <a
           href="https://vercel.com/docs"
           target="_blank"
